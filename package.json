@@ -17,7 +17,7 @@
     "node"           : ">=0.8"
   }
 , "dependencies"     : {
-    "xmlhttprequest" : "1.6.0"
+    "xmlhttprequest" : "git://github.com/TheThingSystem/node-XMLHttpRequest.git"
   }
 , "readmeFilename"   : "README.txt"
 }
